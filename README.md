@@ -1,4 +1,8 @@
-### Hi there 👋
+### Quien Soy
+
+Estudiante universitario en el tercer año de la licenciatura en informática (UADE). Interesado en la programación en backend.
+
+Poseo conocimientos en lenguajes de programación, algoritmos, base de datos, analisis de requerimientos y redes. Ingles avanzado. Persona proactiva, me gusta trabajar en equipo y tengo mucha actitud para seguir aprendiendo y adquiriendo nuevos conocimientos.
 
 <!--
 **xlucasve/xlucasve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
