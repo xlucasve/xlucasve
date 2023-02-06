@@ -1,4 +1,4 @@
-### Quien Soy
+### 💬 Quien Soy
 
 Estudiante universitario en el tercer año de la licenciatura en informática (UADE). Interesado en la programación en backend.
 
