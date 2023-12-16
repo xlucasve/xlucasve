@@ -1,8 +1,8 @@
 ### 💬 Quien Soy
 
-Estudiante universitario en el tercer año de la licenciatura en informática (UADE). Interesado en el rol de Java FullStack Developer.
+Estudiante universitario en el cuarto año de la Licenciatura en Informática. Poder ingresar al mundo profesional IT es una de mis metas personales. Interesado en el rol de Backend Developer / FullStack Developer.
 
-Poseo conocimientos en lenguajes de programación, algoritmos, base de datos, analisis de requerimientos y redes. Ingles avanzado. Persona proactiva, me gusta trabajar en equipo y tengo mucha actitud para seguir aprendiendo y adquiriendo nuevos conocimientos.
+Me considero comunicativo, proactivo y detallista. Me apasiona conocer el negocio para comprender las necesidades y poder idear una solución tecnica siguiendo las buenas prácticas y estándares.
 
 <!--
 **xlucasve/xlucasve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
