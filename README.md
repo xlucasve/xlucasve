@@ -1,6 +1,6 @@
 ### 💬 Quien Soy
 
-Estudiante universitario en el cuarto año de la Licenciatura en Informática. Poder ingresar al mundo profesional IT es una de mis metas personales. Interesado en el rol de Backend Developer / FullStack Developer.
+Estudiante universitario en el cuarto año de la Licenciatura en Informática. Backend Developer / FullStack Developer.
 
 Me considero comunicativo, proactivo y detallista. Me apasiona conocer el negocio para comprender las necesidades y poder idear una solución tecnica siguiendo las buenas prácticas y estándares.
 
