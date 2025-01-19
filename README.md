@@ -1,8 +1,8 @@
-### 💬 Quien Soy
+### 💬 About me
 
-Estudiante universitario en el cuarto año de la Licenciatura en Informática. Backend Developer / FullStack Developer.
+Software Engineer. Backend Developer / Fullstack Developer role.
 
-Me considero comunicativo, proactivo y detallista. Me apasiona conocer el negocio para comprender las necesidades y poder idear una solución tecnica siguiendo las buenas prácticas y estándares.
+I consider myself to be comunicative, proactive and meticulous. I´m passionate about understanding the business in order to further understand its necessities and come up with a technical solution following good practices and standards. English level C2 Proficiency.
 
 <!--
 **xlucasve/xlucasve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
